@@ -1,0 +1,2 @@
+postprocessing v0 es solo outher circle removal
+postprocessing v1 es outher circle remover + hair removal
